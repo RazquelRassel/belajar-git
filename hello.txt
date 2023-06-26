@@ -1,0 +1,8 @@
+Basic Git Command
+
+- git init, digunakan untuk menginisalisasi projek (menjadikannya repositor)
+- git status, Untuk melihat status
+- git log, untuk melihat histori
+- git add
+- git commit
+- git push
