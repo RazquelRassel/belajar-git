@@ -6,3 +6,5 @@ Basic Git Command
 - git add
 - git commit
 - git push
+
+Sekarang ubah di branch 1
